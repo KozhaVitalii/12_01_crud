@@ -1,0 +1,734 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Последнее королевство",
+      "author": "Бернард Корнуэлл",
+      "genres": [
+        "приключения"
+      ],
+      "rating": 8.38
+    },
+    {
+      "id": 2,
+      "title": "На берегу спокойных вод",
+      "author": "Роберт Шекли",
+      "genres": [
+        "фантастика"
+      ],
+      "rating": 8.51
+    },
+    {
+      "id": 3,
+      "title": "Пожиратель призраков",
+      "author": "Говард Лавкрафт",
+      "genres": [
+        "ужасы",
+        "мистика"
+      ],
+      "rating": 7.94
+    },
+    {
+      "id": 4,
+      "title": "Разоблаченный проходимец",
+      "author": "Франц Кафка",
+      "genres": [
+        "классика"
+      ],
+      "rating": 6.62
+    },
+    {
+      "id": 5,
+      "title": "Два солнца",
+      "author": "Леонид Кудрявцев",
+      "genres": [
+        "фантастика"
+      ],
+      "rating": 6.36
+    },
+    {
+      "id": 6,
+      "title": "Сон смешного человека",
+      "author": "Федор Достоевский",
+      "genres": [
+        "классика"
+      ],
+      "rating": 7.75
+    },
+    {
+      "title": "Тестовая книга",
+      "author": "Я",
+      "genres": [
+        "JS"
+      ],
+      "rating": 10,
+      "id": 7
+    },
+    {
+      "title": "Тестовая книга",
+      "author": "Я",
+      "genres": [
+        "JS"
+      ],
+      "rating": 10,
+      "id": 8
+    },
+    {
+      "title": "Большая тестовая книга по CSS",
+      "author": "Я",
+      "genres": [
+        "CSS"
+      ],
+      "rating": 9,
+      "id": 11
+    },
+    {
+      "title": "Тестовая книга по CSS",
+      "author": "Я",
+      "genres": [
+        "CSS"
+      ],
+      "rating": 9,
+      "id": 12
+    },
+    {
+      "title": "Большая новая тестовая книга по HTML",
+      "author": "Я",
+      "genres": [
+        "HTML"
+      ],
+      "rating": 7,
+      "id": 13
+    },
+    {
+      "title": "Тестовая книга по HTML",
+      "author": "Манго",
+      "genres": [
+        "HTML"
+      ],
+      "rating": 4,
+      "id": 17
+    },
+    {
+      "title": "Тестовая книга по CSS",
+      "author": "Я",
+      "genres": [
+        "CSS"
+      ],
+      "rating": 1,
+      "id": 18
+    },
+    {
+      "title": "Большая новая книга по NODEJS",
+      "author": "Я",
+      "genres": [
+        "HTML"
+      ],
+      "rating": 7,
+      "id": 19
+    },
+    {
+      "title": "Тестовая книга по CSS",
+      "author": "Я",
+      "genres": [
+        "CSS"
+      ],
+      "rating": 9,
+      "id": 20
+    },
+    {
+      "title": "Тестовая книга по CSS",
+      "author": "Я",
+      "genres": [
+        "CSS"
+      ],
+      "rating": 9,
+      "id": 21
+    },
+    {
+      "title": "Моя книга",
+      "author": "Виталий Кожа",
+      "genres": [
+        "All about JS"
+      ],
+      "rating": 10,
+      "id": 22
+    },
+    {
+      "title": "Моя книга о React",
+      "author": "Виталий Кожа",
+      "genres": [
+        "All about React"
+      ],
+      "rating": 9.5,
+      "id": 23
+    },
+    {
+      "title": "Моя книга о React",
+      "author": "Виталий Кожа",
+      "genres": [
+        "All about React"
+      ],
+      "rating": 9.5,
+      "id": 24
+    },
+    {
+      "title": "Моя книга о React",
+      "author": "Виталий Кожа",
+      "genres": [
+        "All about React"
+      ],
+      "rating": 9.5,
+      "id": 25
+    },
+    {
+      "title": "Моя книга о React",
+      "author": "Виталий Кожа",
+      "genres": [
+        "All about React"
+      ],
+      "rating": 9.5,
+      "id": 26
+    },
+    {
+      "title": "Моя книга о React",
+      "author": "Виталий Кожа",
+      "genres": [
+        "All about React"
+      ],
+      "rating": 9.5,
+      "id": 27
+    },
+    {
+      "title": "Моя книга о React",
+      "author": "Виталий Кожа",
+      "genres": [
+        "All about React"
+      ],
+      "rating": 9.5,
+      "id": 28
+    },
+    {
+      "title": "Моя книга о React",
+      "author": "Виталий Кожа",
+      "genres": [
+        "All about React"
+      ],
+      "rating": 9.5,
+      "id": 29
+    },
+    {
+      "title": "Моя книга о React",
+      "author": "Виталий Кожа",
+      "genres": [
+        "All about React"
+      ],
+      "rating": 9.5,
+      "id": 30
+    },
+    {
+      "title": "Тестовая книга по CSS",
+      "author": "Я",
+      "genres": [
+        "CSS"
+      ],
+      "rating": 9,
+      "id": 31
+    },
+    {
+      "title": "Моя первая книга по CSS",
+      "author": "Я",
+      "genres": [
+        "CSS"
+      ],
+      "rating": 9,
+      "id": 32
+    },
+    {
+      "title": "Моя первая книга по React",
+      "author": "Я",
+      "genres": [
+        "CSS"
+      ],
+      "rating": 9,
+      "id": 33
+    },
+    {
+      "title": "Моя первая книга по React",
+      "author": "Vitalii Kozha",
+      "genres": [
+        "CSS"
+      ],
+      "rating": 9,
+      "id": 34
+    },
+    {
+      "title": "Моя первая книга по React",
+      "author": "Vitalii Kozha",
+      "genres": [
+        "React"
+      ],
+      "rating": 9,
+      "id": 35
+    },
+    {
+      "title": "Моя первая книга по React",
+      "author": "Vitalii Kozha",
+      "genres": [
+        "React"
+      ],
+      "rating": 9,
+      "id": 36
+    },
+    {
+      "title": "Моя первая книга по React",
+      "author": "Vitalii Kozha",
+      "genres": [
+        "React"
+      ],
+      "rating": 9.99,
+      "id": 37
+    },
+    {
+      "title": "Моя первая книга по React",
+      "author": "Vitalii Kozha",
+      "genres": [
+        "React"
+      ],
+      "rating": 9.99,
+      "id": 38
+    },
+    {
+      "title": "Моя первая книга по React",
+      "author": "Vitalii Kozha",
+      "genres": [
+        "React"
+      ],
+      "rating": 9.99,
+      "id": 39
+    },
+    {
+      "title": "Моя первая книга по React",
+      "author": "Vitalii Kozha",
+      "genres": [
+        "React"
+      ],
+      "rating": 9.99,
+      "id": 40
+    },
+    {
+      "title": "Моя первая книга по React",
+      "author": "Vitalii Kozha",
+      "genres": [
+        "React"
+      ],
+      "rating": 9.99,
+      "id": 41
+    },
+    {
+      "title": "Моя первая книга по React",
+      "author": "Vitalii Kozha",
+      "genres": [
+        "React"
+      ],
+      "rating": 9.99,
+      "id": 42
+    },
+    {
+      "title": "Моя первая книга по React",
+      "author": "Vitalii Kozha",
+      "genres": [
+        "React"
+      ],
+      "rating": 9.99,
+      "id": 43
+    },
+    {
+      "title": "Моя первая книга по React",
+      "author": "Vitalii Kozha",
+      "genres": [
+        "React"
+      ],
+      "rating": 9.99,
+      "id": 44
+    },
+    {
+      "title": "Моя первая книга по React",
+      "author": "Vitalii Kozha",
+      "genres": [
+        "React"
+      ],
+      "rating": 9.99,
+      "id": 45
+    },
+    {
+      "title": "Моя первая книга по React",
+      "author": "Vitalii Kozha",
+      "genres": [
+        "React"
+      ],
+      "rating": 9.99,
+      "id": 46
+    },
+    {
+      "title": "Моя первая книга по React",
+      "author": "Vitalii Kozha",
+      "genres": [
+        "React"
+      ],
+      "rating": 9.99,
+      "id": 47
+    },
+    {
+      "title": "Моя первая книга по React",
+      "author": "Vitalii Kozha",
+      "genres": [
+        "React"
+      ],
+      "rating": 9.99,
+      "id": 48
+    },
+    {
+      "title": "Моя первая книга по React",
+      "author": "Vitalii Kozha",
+      "genres": [
+        "React"
+      ],
+      "rating": 9.99,
+      "id": 49
+    },
+    {
+      "title": "Моя первая книга по React",
+      "author": "Vitalii Kozha",
+      "genres": [
+        "React"
+      ],
+      "rating": 9.99,
+      "id": 50
+    },
+    {
+      "title": "Бестселлер по Node.js",
+      "author": "Vitalii Kozha",
+      "genres": [
+        "Node.js"
+      ],
+      "rating": 9.45,
+      "id": 51
+    },
+    {
+      "title": "Моя первая книга по React",
+      "author": "Vitalii Kozha",
+      "genres": [
+        "React"
+      ],
+      "rating": 9.99,
+      "id": 52
+    },
+    {
+      "title": "Большая новая книга по NODEJS",
+      "author": "Vitalii Kozha",
+      "genres": [
+        "Node.js"
+      ],
+      "rating": 9.45,
+      "id": 53
+    },
+    {
+      "title": "Моя первая книга по React",
+      "author": "Vitalii Kozha",
+      "genres": [
+        "React"
+      ],
+      "rating": 9.99,
+      "id": 54
+    },
+    {
+      "title": "Бестселлер по Node.js",
+      "author": "Vitalii Kozha",
+      "genres": [
+        "Node.js"
+      ],
+      "rating": 9.45,
+      "id": 55
+    },
+    {
+      "title": "Моя первая книга по React",
+      "author": "Vitalii Kozha",
+      "genres": [
+        "React"
+      ],
+      "rating": 9.99,
+      "id": 56
+    },
+    {
+      "title": "Бестселлер по Node.js",
+      "author": "Vitalii Kozha",
+      "genres": [
+        "Node.js"
+      ],
+      "rating": 9.45,
+      "id": 57
+    },
+    {
+      "title": "Моя первая книга по React",
+      "author": "Vitalii Kozha",
+      "genres": [
+        "React"
+      ],
+      "rating": 9.99,
+      "id": 58
+    },
+    {
+      "title": "Бестселлер по Node.js",
+      "author": "Vitalii Kozha",
+      "genres": [
+        "Node.js"
+      ],
+      "rating": 9.45,
+      "id": 59
+    },
+    {
+      "title": "Моя первая книга по React",
+      "author": "Vitalii Kozha",
+      "genres": [
+        "React"
+      ],
+      "rating": 9.99,
+      "id": 60
+    },
+    {
+      "title": "Бестселлер по Node.js",
+      "author": "Vitalii Kozha",
+      "genres": [
+        "Node.js"
+      ],
+      "rating": 9.45,
+      "id": 61
+    },
+    {
+      "title": "Моя первая книга по React",
+      "author": "Vitalii Kozha",
+      "genres": [
+        "React"
+      ],
+      "rating": 9.99,
+      "id": 62
+    },
+    {
+      "title": "Бестселлер по Node.js",
+      "author": "Vitalii Kozha",
+      "genres": [
+        "Node.js"
+      ],
+      "rating": 9.45,
+      "id": 63
+    },
+    {
+      "title": "Моя первая книга по React",
+      "author": "Vitalii Kozha",
+      "genres": [
+        "React"
+      ],
+      "rating": 9.99,
+      "id": 64
+    },
+    {
+      "title": "Бестселлер по Node.js",
+      "author": "Vitalii Kozha",
+      "genres": [
+        "Node.js"
+      ],
+      "rating": 9.45,
+      "id": 65
+    },
+    {
+      "title": "Моя первая книга по React",
+      "author": "Vitalii Kozha",
+      "genres": [
+        "React"
+      ],
+      "rating": 9.99,
+      "id": 66
+    },
+    {
+      "title": "Бестселлер по Node.js",
+      "author": "Vitalii Kozha",
+      "genres": [
+        "Node.js"
+      ],
+      "rating": 9.45,
+      "id": 67
+    },
+    {
+      "title": "Моя первая книга по React",
+      "author": "Vitalii Kozha",
+      "genres": [
+        "React"
+      ],
+      "rating": 9.99,
+      "id": 68
+    },
+    {
+      "title": "Бестселлер по Node.js",
+      "author": "Vitalii Kozha",
+      "genres": [
+        "Node.js"
+      ],
+      "rating": 9.45,
+      "id": 69
+    },
+    {
+      "title": "Моя первая книга по React",
+      "author": "Vitalii Kozha",
+      "genres": [
+        "React"
+      ],
+      "rating": 9.99,
+      "id": 70
+    },
+    {
+      "title": "Бестселлер по Node.js",
+      "author": "Vitalii Kozha",
+      "genres": [
+        "Node.js"
+      ],
+      "rating": 9.45,
+      "id": 71
+    },
+    {
+      "title": "Моя первая книга по React",
+      "author": "Vitalii Kozha",
+      "genres": [
+        "React"
+      ],
+      "rating": 9.99,
+      "id": 72
+    },
+    {
+      "title": "Бестселлер по Node.js",
+      "author": "Vitalii Kozha",
+      "genres": [
+        "Node.js"
+      ],
+      "rating": 9.45,
+      "id": 73
+    },
+    {
+      "title": "Моя первая книга по React",
+      "author": "Vitalii Kozha",
+      "genres": [
+        "React"
+      ],
+      "rating": 9.99,
+      "id": 74
+    },
+    {
+      "title": "Бестселлер по Node.js",
+      "author": "Vitalii Kozha",
+      "genres": [
+        "Node.js"
+      ],
+      "rating": 9.45,
+      "id": 75
+    },
+    {
+      "title": "Моя первая книга по React",
+      "author": "Vitalii Kozha",
+      "genres": [
+        "React"
+      ],
+      "rating": 9.99,
+      "id": 76
+    },
+    {
+      "title": "Бестселлер по Node.js",
+      "author": "Vitalii Kozha",
+      "genres": [
+        "Node.js"
+      ],
+      "rating": 9.45,
+      "id": 77
+    },
+    {
+      "title": "Моя первая книга по React",
+      "author": "Vitalii Kozha",
+      "genres": [
+        "React"
+      ],
+      "rating": 9.99,
+      "id": 78
+    },
+    {
+      "title": "Бестселлер по Node.js",
+      "author": "Vitalii Kozha",
+      "genres": [
+        "Node.js"
+      ],
+      "rating": 9.45,
+      "id": 79
+    },
+    {
+      "title": "Бестселлер по Node.js",
+      "author": "Vitalii Kozha",
+      "genres": [
+        "Node.js"
+      ],
+      "rating": 9.45,
+      "id": 80
+    },
+    {
+      "title": "Моя первая книга по React",
+      "author": "Vitalii Kozha",
+      "genres": [
+        "React"
+      ],
+      "rating": 9.99,
+      "id": 81
+    },
+    {
+      "title": "Моя первая книга по React",
+      "author": "Vitalii Kozha",
+      "genres": [
+        "React"
+      ],
+      "rating": 9.99,
+      "id": 82
+    },
+    {
+      "title": "Бестселлер по Node.js",
+      "author": "Vitalii Kozha",
+      "genres": [
+        "Node.js"
+      ],
+      "rating": 9.45,
+      "id": 83
+    },
+    {
+      "title": "Моя первая книга по React",
+      "author": "Vitalii Kozha",
+      "genres": [
+        "React"
+      ],
+      "rating": 9.99,
+      "id": 84
+    },
+    {
+      "title": "Моя первая книга по React",
+      "author": "Vitalii Kozha",
+      "genres": [
+        "React"
+      ],
+      "rating": 9.99,
+      "id": 86
+    },
+    {
+      "title": "Бестселлер по Node.js",
+      "author": "Vitalii Kozha",
+      "genres": [
+        "Node.js"
+      ],
+      "rating": 9.45,
+      "id": 87
+    }
+  ]
+}

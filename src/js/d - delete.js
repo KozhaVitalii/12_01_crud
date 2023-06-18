@@ -9,6 +9,6 @@ function removeBook(bookId) {
   return fetch(url, options).then(res => res.json());
 }
 
-// removeBook(15);
-// removeBook(14);
+removeBook(15);
+removeBook(14);
 

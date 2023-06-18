@@ -1,3 +1,5 @@
+// Метод PATCH обновляет данные 
+
 const BASE_URL = 'http://localhost:4040';
 
 function updateBookById(update, bookId) {
@@ -12,8 +14,11 @@ function updateBookById(update, bookId) {
   return fetch(`${BASE_URL}/books/${bookId}`, options).then(res => res.json());
 }
 
-// updateBookById({ title: 'Большая новая книга по NODEJS' }, 19);
+// Для функции в { } указываем свойства, которые хотим обновить, если несколько то через "," и после скобок указываем id
+// объекта,который хотим обновить:
 
-// updateBookById({ rating: 1 }, 18);
+updateBookById({ title: 'Большая новая книга по NODEJS' }, 19);
 
-// updateBookById({ rating: 4, author: 'Манго' }, 17);
+updateBookById({ rating: 1 }, 18);
+
+updateBookById({ rating: 4, author: 'Манго' }, 17);
